@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "template-python-project"
+version = "0.1.0"
+description = "A simple template to easily start a Python project"
+authors = ["Reza Rahemtola <contact@rezarahemtola.com>"]
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/RezaRahemtola/python-project-template"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
