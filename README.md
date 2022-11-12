@@ -3,6 +3,7 @@ A simple template to easily start a Python project with a clean architecture.
 
 - [`poetry`](https://github.com/python-poetry/poetry) for dependency management
 - [`pylint`](https://github.com/PyCQA/pylint/) for static code analysis
+- [`mypy`](https://github.com/python/mypy) for static type checks
 - [`black`](https://github.com/psf/black) as the code formatter
   - With [`isort`](https://github.com/PyCQA/isort) profile for import ordering
 - [`pre-commit`](https://github.com/pre-commit/pre-commit) hooks to enforce clean commits with the above tools
