@@ -14,7 +14,7 @@ python = "^3.10"
 [tool.poetry.group.dev.dependencies]
 pylint = "^2.15.5"
 black = "^22.10.0"
-isort = "^5.10.1"
+isort = "^5.12.0"
 mypy = "^0.990"
 
 [tool.isort]
